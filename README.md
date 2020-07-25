@@ -28,6 +28,6 @@
 
 **Check our non-profit out:**
 
-[![notific logo](notific.svg)](https://notific.com.br)
+[![notific logo](https://raw.githubusercontent.com/gcgbarbosa/gcgbarbosa/master/notific.svg)](https://notific.com.br)
 
 

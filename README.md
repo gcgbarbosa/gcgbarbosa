@@ -28,8 +28,5 @@
 
 **[joincampaignzero.org](https://joincampaignzero.org)** aaaaaannddddd...
 
-**Check our non-profit out:**
-
-[![notific logo](https://raw.githubusercontent.com/gcgbarbosa/gcgbarbosa/master/notific.svg)](https://notific.com.br)
 
 

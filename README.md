@@ -24,7 +24,5 @@
 
 ## Also...
 
-**[joincampaignzero.org](https://joincampaignzero.org)** aaaaaannddddd...
-
-
+**[joincampaignzero.org](https://joincampaignzero.org)**
 

@@ -26,5 +26,5 @@
 
 **[joincampaignzero.org/](https://joincampaignzero.org)**
 
-**[https://blackinai.github.io/](https://blackinai.github.io/)**
+**[blackinai.github.io/](https://blackinai.github.io/)**
 

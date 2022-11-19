@@ -2,6 +2,8 @@
 
 <a rel="me" href="https://mastodon.social/@gcgbarbosa">mastodon.social@gcgbarbosa</a>
 
+I am a PhD student @ [The University of Arizoan](https://www.cs.arizona.edu/person/george-cg-barbosa)
+
 [gcgbarbosa.com](https://gcgbarbosa.com)
 
 I am working with Low Orbit Satellite Networks (aka Starlink).

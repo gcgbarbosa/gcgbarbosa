@@ -1,6 +1,7 @@
 # George C. G. Barbosa ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
-**UPDATE: i will start writing about network stuff at: [gcgbarbosa.com](https://gcgbarbosa.com)**
+<a rel="me" href="https://mastodon.social/@gcgbarbosa">Mastodon</a>
+[gcgbarbosa.com](https://gcgbarbosa.com)
 
 I am working with Low Orbit Satellite Networks (aka Starlink).
 

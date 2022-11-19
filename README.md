@@ -1,6 +1,7 @@
 # George C. G. Barbosa ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
 <a rel="me" href="https://mastodon.social/@gcgbarbosa">mastodon.social@gcgbarbosa</a>
+
 [gcgbarbosa.com](https://gcgbarbosa.com)
 
 I am working with Low Orbit Satellite Networks (aka Starlink).

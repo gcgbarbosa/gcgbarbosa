@@ -1,5 +1,12 @@
 # George C. G. Barbosa ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
+I profoundly dislike Elon Musk for his hyperloop project.
+The idea was to have tunels for cars.
+When I saw that I realized that he not only is a big narcisist, but also as ignorant as it can get.
+That said, I am glad he destroyed twitter,
+because it proved that even if you are white and rich,
+if you are dumb enough you can still fuck it up.
+
 <a rel="me" href="https://mastodon.social/@gcgbarbosa">mastodon.social@gcgbarbosa</a>
 
 I am a PhD student @ [The University of Arizoan](https://www.cs.arizona.edu/person/george-cg-barbosa).

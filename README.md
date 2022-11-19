@@ -5,9 +5,7 @@ The idea was to have tunnels for cars.
 When I saw that, I realized that he not only is a big narcisist, but also as ignorant as it can get.
 That said, 
 I am glad he destroyed twitter because it proves that even when you are white and rich,
-if you are dumb enough you can still fuck it up.
-
-<a rel="me" href="https://mastodon.social/@gcgbarbosa">mastodon.social@gcgbarbosa</a>
+if you are dumb enough you can still fuck it up. <a rel="me" href="https://mastodon.social/@gcgbarbosa">mastodon.social@gcgbarbosa</a>.
 
 I am a PhD student @ [The University of Arizoan](https://www.cs.arizona.edu/person/george-cg-barbosa).
 I am working with Low Orbit Satellite Networks.

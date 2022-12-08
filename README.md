@@ -7,7 +7,7 @@ That said,
 I am glad he destroyed twitter because it proves that even when you are white and rich,
 if you are dumb enough you can still fuck it up. <a rel="me" href="https://mastodon.social/@gcgbarbosa">mastodon.social@gcgbarbosa</a>.
 
-I am a PhD student @ [The University of Arizoan](https://www.cs.arizona.edu/person/george-cg-barbosa).
+I am a PhD student @ [The University of Arizona](https://www.cs.arizona.edu/person/george-cg-barbosa).
 I am working with Low Orbit Satellite Networks.
 Check this vis to understand more: [starlink-g1.gcgbarbosa.com](http://starlink-g1.gcgbarbosa.com).
 Or my blog: [gcgbarbosa.com](https://gcgbarbosa.com).

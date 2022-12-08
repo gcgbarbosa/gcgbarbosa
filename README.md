@@ -1,12 +1,5 @@
 # George C. G. Barbosa ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
-I profoundly dislike Elon Musk for his hyperloop project.
-The idea was to have tunnels for cars.
-When I saw that, I realized that he not only is a big narcisist, but also as ignorant as it can get.
-That said, 
-I am glad he destroyed twitter because it proves that even when you are white and rich,
-if you are dumb enough you can still fuck it up. <a rel="me" href="https://mastodon.social/@gcgbarbosa">mastodon.social@gcgbarbosa</a>.
-
 I am a PhD student @ [The University of Arizona](https://www.cs.arizona.edu/person/george-cg-barbosa).
 I am working with Low Orbit Satellite Networks.
 Check this vis to understand more: [starlink-g1.gcgbarbosa.com](http://starlink-g1.gcgbarbosa.com).
@@ -130,8 +123,6 @@ Or my blog: [gcgbarbosa.com](https://gcgbarbosa.com).
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-
 
 
 ## Also...

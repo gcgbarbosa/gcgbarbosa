@@ -1,6 +1,6 @@
 # George C. G. Barbosa ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
-<img src="1671024679985.gif" width="100%">
+
 
 I am a PhD student @ [The University of Arizona](https://www.cs.arizona.edu/person/george-cg-barbosa).
 I am working with Low Orbit Satellite Networks.
@@ -11,20 +11,7 @@ Or my blog: [gcgbarbosa.com](https://gcgbarbosa.com).
 
 ---
 
-```
-,,,,,,,,,,,@@@@@@@@@@,,,,,,,,,,,
-,,,,,,,,,,,@@@@@@@@@@,,,,,,,,,,,
-,,,,,,,,,,,@@@@@@@@@@,,,,,,,,,,,
-,,,,,,,,,,,@@@@@@@@@@,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,@@@@@@@@@@
-,,,,,,,,,,,,,,,,,,,,,,@@@@@@@@@@
-,,,,,,,,,,,,,,,,,,,,,,@@@@@@@@@@
-,,,,,,,,,,,,,,,,,,,,,,@@@@@@@@@@
-@@@@@@@@@@,@@@@@@@@@@,@@@@@@@@@@
-@@@@@@@@@@,@@@@@@@@@@,@@@@@@@@@@
-@@@@@@@@@@,@@@@@@@@@@,@@@@@@@@@@
-@@@@@@@@@@,@@@@@@@@@@,@@@@@@@@@@
-```
+<img src="1671024679985.gif" width="100%">
 
 ---
 

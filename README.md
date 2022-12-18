@@ -24,6 +24,8 @@ Or my blog: [gcgbarbosa.com](https://gcgbarbosa.com).
 @@@@@@@@@@,@@@@@@@@@@,@@@@@@@@@@
 ```
 
+![learning](1671024679985.gif)
+
 ---
 
 

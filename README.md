@@ -24,7 +24,7 @@ Or my blog: [gcgbarbosa.com](https://gcgbarbosa.com).
 @@@@@@@@@@,@@@@@@@@@@,@@@@@@@@@@
 ```
 
-<img src="1671024679985.gif" width="100">
+<img src="1671024679985.gif" width="300">
 
 ---
 

@@ -13,7 +13,6 @@ Or my blog: [gcgbarbosa.com](https://gcgbarbosa.com).
 
 <img src="1671024679985.gif" width="50%">
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/61339067/activity-summary/3b74dac71f701069d2858ad68ad4567e4d02e587'></iframe>
 
 ---
 

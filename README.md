@@ -11,7 +11,7 @@ Or my blog: [gcgbarbosa.com](https://gcgbarbosa.com).
 
 ---
 
-<img src="1671024679985.gif" width="20%">
+<img src="1671024679985.gif" width="40%">
 
 
 ---

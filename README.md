@@ -6,7 +6,7 @@ I am a PhD student @ [The University of Arizona](https://www.cs.arizona.edu/pers
 I am working with Low Orbit Satellite Networks.
 Check this vis to understand more: [starlink-g1.gcgbarbosa.com](http://starlink-g1.gcgbarbosa.com).
 
-<img src="1671024679985.gif" width="40%">
+<img src="1671024679985.gif" width="400px">
 
 ---
 

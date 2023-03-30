@@ -1,4 +1,4 @@
-# George C. G. Barbosa ![](https://pronoun.cyou/x/y?subject=any&object=all&height=20)
+# George C. G. Barbosa
 
 Can you sit down at your desk and do your work 365 days of the year? Now, can you keep working while you're under as much pressure as a neutron star?
 

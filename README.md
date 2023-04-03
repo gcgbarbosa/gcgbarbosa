@@ -1,6 +1,6 @@
 # George C. G. Barbosa
 
-Can you sit down at your desk and do your work 365 days of the year? Now, can you keep working while you're under as much pressure as a neutron star?
+Can we sit down at our desk and do our work 365 days of the year? Now, can we keep working while we're under as much pressure as a neutron star? Yes we can!
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3036-9899" href="https://orcid.org/0000-0003-3036-9899" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3036-9899</a></div>
 
